@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SearchParams = () => {
-  const location = 'Portland, OR';
+  const location = 'Seattle, WA';
 
   return (
     <div className="search-params">
